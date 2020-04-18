@@ -1,4 +1,9 @@
 first file modified
+<<<<<<< HEAD
 hii this is new hari 
 this save done by alice
 happy days
+=======
+hii this is new hari m
+sad days
+>>>>>>> 5540115... sad days
